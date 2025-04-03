@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4756d34c2013f4962a493219a844c860, type: 3}
+  m_Name: BlockPalette
+  m_EditorClassIdentifier: 
+  blocks:
+  - id: 1_0
+    prefab: {fileID: 6828412628540585239, guid: 4b96c8870b409425da2ef9c65d3403db, type: 3}
+    icon: {fileID: 2800000, guid: 860e979d27b9c40c599aee9e174ff590, type: 3}
+  - id: 1_1
+    prefab: {fileID: 7548966355196209980, guid: 237eb48216f2f4ea9ab52eca87f30915, type: 3}
+    icon: {fileID: 2800000, guid: 1f24ade18b3634f6daee4847a5089f74, type: 3}
+  - id: 1_2
+    prefab: {fileID: 4114737143853884409, guid: 2c2af56a7d2f242bdbc2991528614787, type: 3}
+    icon: {fileID: 2800000, guid: 1de74d4ede19d46e0b431a46466ef567, type: 3}
+  - id: 1_3
+    prefab: {fileID: 4854406399344450331, guid: 1d48664525b994119857e5ef8f71261a, type: 3}
+    icon: {fileID: 2800000, guid: 5cab93b81a17b46e8a5e314b9a4609ff, type: 3}
+  - id: 1_4
+    prefab: {fileID: 8362891628237210130, guid: 7c1a9cdce621c4735a687e2018fb4bfb, type: 3}
+    icon: {fileID: 2800000, guid: 756253a47c66d4763952dd82bcac8e4d, type: 3}
+  - id: 1_5
+    prefab: {fileID: 3976153942339893741, guid: 18560976a50554d388bbcd291bb5af31, type: 3}
+    icon: {fileID: 2800000, guid: 3f1dff44b153547fa91053f5474b7ad6, type: 3}
+  - id: 1_6
+    prefab: {fileID: 3511735093217003264, guid: 68f15f10312274ace98cbdac664c3b99, type: 3}
+    icon: {fileID: 2800000, guid: 9d856df7b637b4a4e93a1aabdbc6baa5, type: 3}
+  - id: 2_0
+    prefab: {fileID: 4929996507522298532, guid: 06c9e692340d04364acacc3c932e9863, type: 3}
+    icon: {fileID: 2800000, guid: af08dd7caadd24cd6a9e265155366cca, type: 3}
+  - id: 2_1
+    prefab: {fileID: 5028979732183417332, guid: adb91fe59984542608d86ac0b02b3291, type: 3}
+    icon: {fileID: 2800000, guid: fcd283076413e4ab7be5edb3dda497f2, type: 3}
+  - id: 2_2
+    prefab: {fileID: 9193869051006449173, guid: 6dfb852df91704143a4ccc3f70a4a131, type: 3}
+    icon: {fileID: 2800000, guid: a5ebb89c10011446caa2715c50d0fff3, type: 3}
+  - id: 2_3
+    prefab: {fileID: 6572442176060462020, guid: aa95775cbcbdc4cfaa39bd99e392337a, type: 3}
+    icon: {fileID: 2800000, guid: ba729277dd60549e8963f2a879fe5c85, type: 3}
+  - id: 2_4
+    prefab: {fileID: 7360324244201375433, guid: 4c20b34f029cb43fe81315307e3f9135, type: 3}
+    icon: {fileID: 2800000, guid: a7c9577d9f1eb499f938d4ba999494f9, type: 3}
+  - id: 2_5
+    prefab: {fileID: 3921026846259563071, guid: 85d63e63a8f3c4059a07a4c75c3098b4, type: 3}
+    icon: {fileID: 2800000, guid: 4b25cdf2d737d4eb384bd8e741535281, type: 3}
+  - id: 2_6
+    prefab: {fileID: 3669010780544767910, guid: 43e6c6a1b64734dcbb515e8efe091a20, type: 3}
+    icon: {fileID: 2800000, guid: 18b8af5cf5de14d7999f55fe4567f030, type: 3}
+  - id: 3_0
+    prefab: {fileID: 7302591629563175010, guid: 78ebfbc2c4b364bcc8930f4fdf6db255, type: 3}
+    icon: {fileID: 2800000, guid: 8c1cbff4eeaea406daa019af847392aa, type: 3}
+  - id: 4_0
+    prefab: {fileID: 916369538299148299, guid: da1b7904730f04f1582e812274b90ea4, type: 3}
+    icon: {fileID: 2800000, guid: eb4164735da994a89a53cc596b63b66b, type: 3}
+  - id: 4_1
+    prefab: {fileID: 5943951113428861623, guid: 31a0f6efe96c74af89903ba108a0c4f2, type: 3}
+    icon: {fileID: 2800000, guid: 43c58f45bc686415db3d39222de9268d, type: 3}
+  - id: 4_2
+    prefab: {fileID: 4365489822727140357, guid: 76d318556f10746cbb39b08a51bd8be1, type: 3}
+    icon: {fileID: 2800000, guid: c3d03fd3a72484d45ab236f327aa4e5c, type: 3}
+  - id: 4_3
+    prefab: {fileID: 7769266644922676879, guid: b252b7c4dcef84fbbba6256e28b53035, type: 3}
+    icon: {fileID: 2800000, guid: 4c3e8d7415ab14b898c5cd49283f55f5, type: 3}
+  - id: 4_4
+    prefab: {fileID: 3110279744517760367, guid: 4c65099b7eb5144a5b1f889c64354e31, type: 3}
+    icon: {fileID: 2800000, guid: ce4a60791a29e466aa8542ffbccf0b6b, type: 3}
